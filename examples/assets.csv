@@ -1,0 +1,9 @@
+asset_id,name,building,location
+HVAC-0001,Rooftop unit 1,Building A,Roof
+HVAC-0002,Chiller 1,Building A,Mechanical room
+ELEC-0001,Main switchgear,Building A,Electrical room
+PLMB-0001,Domestic hot water heater,Building B,Basement
+FIRE-0001,Fire pump,Building B,Pump room
+ELEV-0001,Passenger elevator 1,Building B,Lobby core
+HVAC-0003,Air handler 2,Building B,Second floor mechanical room
+ELEC-0002,Emergency generator,Building A,Parking level 1
