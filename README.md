@@ -1,5 +1,7 @@
 # asset-tag-label-generator
 
+[![CI](https://github.com/yassine2med/asset-tag-label-generator/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/asset-tag-label-generator/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Equipment in a building is hard to track when nobody can tell which unit is which. A printed label with a QR code lets a technician scan the unit and open the right record. This tool reads a CSV of assets and writes a PDF sheet of labels, three across and eight down on US Letter paper (2.5 by 1.25 inch each), with the asset ID, name, building and location printed next to the QR code.
 
 ![Screenshot](docs/screenshot.png)
